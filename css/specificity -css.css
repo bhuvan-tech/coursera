@@ -1,0 +1,27 @@
+
+p {	
+	color: gray !important; /*dont use much !important, score 1 */
+	text-align: center;
+	font-size: 130%;
+	font-weight: bolder;
+}
+
+
+#worryalways{	/* score 100 */
+	color: blue;
+	text-align: right;
+	font-size: 2em;
+	text-transform: capitalize;
+	font-family: "Times New Roman",times,sans-serif;
+}
+
+/* PART 2 */
+div.dontworry{	 /* score 11 */
+	color: maroon;
+	font-style: normal;
+}
+
+.dontworry{		/* score 10 */
+	font-style: italic;
+	color: yellowgreen;
+}

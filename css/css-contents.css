@@ -1,0 +1,11 @@
+body{
+	text-align: center;
+	color: #ff0000;
+	font-weight: bold;
+}
+p{
+	background-color: lightgray;
+	color: yellow;
+	font-size: 150%;
+	font-style: italic;
+}
