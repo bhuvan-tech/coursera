@@ -1,0 +1,27 @@
+.container{
+    width:600px; margin: 30px auto;
+}
+.title{
+    font-size: 3em;
+    color:rgb(238,255,0);
+    background: #000;
+    padding: 20px;
+}
+.parallex-img{
+    height: 600px;
+    margin: 30px auto;
+    background-attachment:fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.img1{
+    background-image: url('Anne-frank.jpeg');
+}
+.img2{
+   background-image:  url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.u3P738HVJ6jmBefLNG7viAHaFj%26pid%3DApi&f=1');
+}
+.text{
+    letter-spacing: 0.5px;
+    text-align: justify;
+}
