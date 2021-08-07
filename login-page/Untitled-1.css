@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background: rgb(65, 65, 230);
+    font-family: 'Roboto',sans-serif;
+    color:#fff;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.card{
+    width:350px;
+    height: 500px;
+    box-shadow:0 0 40px 20px rgba(0,0,0,0.26);
+
+}
+
+
+
