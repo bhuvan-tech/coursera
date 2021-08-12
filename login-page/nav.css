@@ -94,7 +94,7 @@ a.active,a:hover{
     #check:checked ~ ul{
         left:0;
     }
-    }
+}
     section{
         background: url(bg.svg) no-repeat;
         background-size: cover;
