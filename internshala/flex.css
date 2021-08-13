@@ -1,0 +1,10 @@
+.row{
+    border:dotted 5px #ff00ff;
+    width:500px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.col{
+    border: solid 3px #00ffff;
+    border-radius: 5px;
+}
