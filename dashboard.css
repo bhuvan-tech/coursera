@@ -1,0 +1,93 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.head{
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+}
+
+.logo{
+    align-self: flex-start;
+    padding: 15px;
+}
+
+img.imglogo{
+    width: 120px;
+    height:50px;
+}
+
+.navi{
+    align-self: flex-end;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sign{
+    padding: 20px;
+}
+.sign a{
+    color: gray;
+    text-decoration: none;
+}
+
+i{
+    padding-right: 5px;
+}
+
+.dashboard{
+    text-decoration: none;
+    color: rgb(141, 141, 141);
+}
+
+.profile{
+    margin:190px 50px 0 190px;
+    width: 100%;
+}
+.icon-profile{
+    padding-left: 190px;
+    display: flex;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.icon-profile .fa-user{
+    /* border: solid 2px rgb(141, 141, 141); */
+    font-size: 800%;
+    color: rgb(141, 141, 141);
+}
+
+.user-info{
+    padding-left: 150px;
+}
+
+footer{
+    background-color: rgb(24, 25, 51);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 115px;
+}
+
+footer ul{
+    float: left;
+}
+
+footer ul li{
+    display: inline-block;
+    padding: 50px 150px 0;
+    color: rgb(221, 221, 221); !important
+}
+
+footer div.footer-bottom{
+    position: absolute;
+    text-align: center;
+    widows: 100%;
+    bottom:0px;
+    left:45%;
+    color: rgb(255, 255, 255);
+}
